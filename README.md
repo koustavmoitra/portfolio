@@ -1,6 +1,7 @@
 # portfolio
 portfolio website made with HTML, CSS and JavaScript.
-eployed Link : https://portfolio-wine-ten-16.vercel.app/
+<br><hr>
+deployed Link : https://portfolio-wine-ten-16.vercel.app/
 
 Screenshot(WEB) - 
 <i>NOTE : Only for web💻 not for mobile 📱📵</i>
