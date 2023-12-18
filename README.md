@@ -1,2 +1,2 @@
 # portfolio
-portfolio website
+portfolio website made with HTML, CSS and JavaScript.
